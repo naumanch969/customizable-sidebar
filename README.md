@@ -42,9 +42,9 @@ This repository contains the code for a customizable sidebar component built usi
    - The sidebar component will be accessible at `http://localhost:3000` in your web browser.
 
 4. **Customize Sidebar Data**:
-   - Open the `src/data/sidebarData.js` file and customize the sidebar menu items as needed.
+   - Open the `src/data/sidebar.json` file and customize the sidebar menu items as needed.
    - Each sidebar item is represented by an object in the array, with properties such as `label`, `icon`, `link`, and `children` for nested items.
 
 ---
 
-Feel free to explore, test, and customize this customizable sidebar component according to your requirements. If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. Happy coding! 🚀
+Feel free to explore, test, and customize this customizable sidebar component according to your requirements.
